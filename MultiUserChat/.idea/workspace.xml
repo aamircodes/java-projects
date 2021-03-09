@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="825b69fb-70ec-4078-aa59-553358e2b08e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pG2lAxJrUNRjsEeU6dlDkneBO6" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.ChatClient">
+    <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.muc.ChatClient" />
+      <module name="ChatClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.muc.ServerMain" />
+      <module name="ChatServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatClient" />
+        <item itemvalue="Application.ServerMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="825b69fb-70ec-4078-aa59-553358e2b08e" name="Default Changelist" comment="" />
+      <created>1614795254620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614795254620</updated>
+      <workItem from="1614795257280" duration="7000" />
+      <workItem from="1614795289583" duration="342000" />
+      <workItem from="1614795660907" duration="13722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="775" y="125" key="#Project_Structure" timestamp="1615299463209">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="775" y="125" key="#Project_Structure/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1615299463209" />
+    <state x="325" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1615304050099">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="325" y="176" key="#com.intellij.ide.util.MemberChooser/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1615304050099" />
+    <state width="809" height="166" key="GridCell.Tab.0.bottom" timestamp="1615304555416">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state width="809" height="166" key="GridCell.Tab.0.bottom/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1615304555416" />
+    <state width="809" height="166" key="GridCell.Tab.0.center" timestamp="1615304555414">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state width="809" height="166" key="GridCell.Tab.0.center/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1615304555414" />
+    <state width="809" height="166" key="GridCell.Tab.0.left" timestamp="1615304555412">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state width="809" height="166" key="GridCell.Tab.0.left/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1615304555412" />
+    <state width="809" height="166" key="GridCell.Tab.0.right" timestamp="1615304555415">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state width="809" height="166" key="GridCell.Tab.0.right/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1615304555415" />
+    <state x="618" y="98" key="SettingsEditor" timestamp="1614795636248">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="618" y="98" key="SettingsEditor/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1614795636248" />
+    <state x="955" y="219" key="extract.method.dialog" timestamp="1614961026012">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="955" y="219" key="extract.method.dialog/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1614961026012" />
+    <state x="375" y="82" key="new project wizard" timestamp="1614795355304">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="375" y="82" key="new project wizard/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1614795355304" />
+    <state x="840" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1615301779604">
+      <screen x="0" y="25" width="1600" height="875" />
+    </state>
+    <state x="840" y="214" width="670" height="676" key="search.everywhere.popup/1600.25.1440.875/0.25.1600.875@0.25.1600.875" timestamp="1615301779604" />
+  </component>
+</project>
