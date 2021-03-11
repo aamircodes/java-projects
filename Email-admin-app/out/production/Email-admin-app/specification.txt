@@ -1,0 +1,5 @@
+-generate email with syntax: fname,lname@department.company.com
+-determine the department(sales, dev, accounting), if none, leave blank
+-generate random String for pwd
+-have setters to change pwd, set mailbox capacity, defining alternate email
+-have getters to display name, email, mailbox capacity
