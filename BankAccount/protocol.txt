@@ -1,0 +1,7 @@
+Menu driven bank account:
+Creating a bank account (checking or savings)
+Deposit/withdraw funds
+Apply interest
+
+
+Practising polymorphism & inheritance
